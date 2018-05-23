@@ -1,0 +1,23 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.loader {
+  visibility: hidden;
+  position: fixed;
+}
+
+.avatar {
+  width: 400px;
+  height: 400px;
+  border: 1px solid #F00;
+}
+
+.VM-Avatar-Eyes-Green-03{
+  fill:url(#radial-gradient-32);
+}

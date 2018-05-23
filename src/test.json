@@ -1,0 +1,98 @@
+[
+  {
+    "name": "beard",
+    "items": [
+      "Beard_04",
+      "Beard_03",
+      "Beard_02",
+      "Beard_01"
+    ]
+  },
+  {
+    "name": "mouth",
+    "items": [
+      "Mouth_08",
+      "Mouth_07",
+      "Mouth_06",
+      "Mouth_05",
+      "Mouth_04",
+      "Mouth_03",
+      "Mouth_02",
+      "Mouth_01"
+    ]
+  },
+  {
+    "name": "mustache",
+    "items": [
+      "Mustache_03",
+      "Mustache_02",
+      "Mustache_01"
+    ]
+  },
+  {
+    "name": "eyes",
+    "items": [
+      "Black_Eye",
+      "Eye_Shadows",
+      "Eyes"
+    ]
+  },
+  {
+    "name": "eyebrows",
+    "items": [
+      "Thin_03",
+      "Thin_02",
+      "Thin_01",
+      "Medium_03",
+      "Medium_02",
+      "Medium_01",
+      "Thick_03",
+      "Thick_02",
+      "Thick_01"
+    ]
+  },
+  {
+    "name": "hair",
+    "items": [
+      "Hat_Hair",
+      "Buzz",
+      "Hair_11",
+      "Hair_10",
+      "Hair_09",
+      "Hair_08",
+      "Hair_07",
+      "Hair_06",
+      "Hair_05",
+      "Hair_04",
+      "Hair_03",
+      "Hair_02",
+      "Hair_01"
+    ]
+  },
+  {
+    "name": "freckles",
+    "items": [
+      "Freckles_Dense",
+      "Freckles_Sparse"
+    ]
+  },
+  {
+    "name": "glasses",
+    "items": [
+      "Sunglasses_02",
+      "Sunglasses_01",
+      "Glasses_04",
+      "Glasses_03",
+      "Glasses_02",
+      "Glasses_01"
+    ]
+  },
+  {
+    "name": "hats",
+    "items": [
+      "Hats_03",
+      "Hats_02",
+      "Hats_01"
+    ]
+  }
+]

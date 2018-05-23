@@ -1,0 +1,145 @@
+{
+  "controls": [
+    {
+      "folder": "Face",
+      "items": [
+        {
+          "name": "head",
+          "items": [
+            "Head_Square",
+            "Head_Round",
+            "Head_Narrow"
+          ]
+        },
+        {
+          "name": "head_color",
+          "color": "#0F0000"
+        },
+        {
+          "name": "nose",
+          "items": [
+            "Nose_05",
+            "Nose_04",
+            "Nose_03",
+            "Nose_02",
+            "Nose_01"
+          ]
+        },
+        {
+          "name": "eyelids",
+          "items": [
+            "Eyelids_03",
+            "Eyelids_02",
+            "Eyelids_01"
+          ]
+        },
+        {
+          "name": "beard",
+          "items": [
+            "",
+            "Beard_04",
+            "Beard_03",
+            "Beard_02",
+            "Beard_01"
+          ]
+        },
+        {
+          "name": "mouth",
+          "items": [
+            "Mouth_08",
+            "Mouth_07",
+            "Mouth_06",
+            "Mouth_05",
+            "Mouth_04",
+            "Mouth_03",
+            "Mouth_02",
+            "Mouth_01"
+          ]
+        },
+        {
+          "name": "mustache",
+          "items": [
+            "",
+            "Mustache_03",
+            "Mustache_02",
+            "Mustache_01"
+          ]
+        },
+        {
+          "name": "eyes",
+          "items": [
+            "eyes"
+          ]
+        },
+        {
+          "name": "eyes_extras",
+          "items": [
+            "Black_Eye",
+            "Eye_Shadows"
+          ]
+        },
+        {
+          "name": "eyebrows",
+          "items": [
+            "Thin_03",
+            "Thin_02",
+            "Thin_01",
+            "Medium_03",
+            "Medium_02",
+            "Medium_01",
+            "Thick_03",
+            "Thick_02",
+            "Thick_01"
+          ]
+        },
+        {
+          "name": "hair",
+          "items": [
+            "Hat_Hair",
+            "Buzz",
+            "Hair_11",
+            "Hair_10",
+            "Hair_09",
+            "Hair_08",
+            "Hair_07",
+            "Hair_06",
+            "Hair_05",
+            "Hair_04",
+            "Hair_03",
+            "Hair_02",
+            "Hair_01"
+          ]
+        },
+        {
+          "name": "freckles",
+          "items": [
+            "",
+            "Freckles_Dense",
+            "Freckles_Sparse"
+          ]
+        },
+        {
+          "name": "glasses",
+          "items": [
+            "",
+            "Sunglasses_02",
+            "Sunglasses_01",
+            "Glasses_04",
+            "Glasses_03",
+            "Glasses_02",
+            "Glasses_01"
+          ]
+        },
+        {
+          "name": "hats",
+          "items": [
+            "",
+            "Hats_03",
+            "Hats_02",
+            "Hats_01"
+          ]
+        }
+      ]
+    }
+  ]
+}
